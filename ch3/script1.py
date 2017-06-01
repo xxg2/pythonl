@@ -1,7 +1,7 @@
 import sys
-print sys.platform
-print 2 ** 100
+print(sys.platform)
+print(2 ** 100)
 x = 'Spam!'
-print x * 8
+print(x * 8)
 myInput = input()
-print myInput
+print(myInput)
