@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../../../software/anaconda/Lib/Lib.iml" filepath="$PROJECT_DIR$/../../../software/anaconda/Lib/Lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonl.iml" filepath="$PROJECT_DIR$/.idea/pythonl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../practise/shiant-pts-service/shiant-pts-service.iml" filepath="$PROJECT_DIR$/../../../practise/shiant-pts-service/shiant-pts-service.iml" />
     </modules>
   </component>
 </project>
