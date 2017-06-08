@@ -108,6 +108,7 @@ S.issubset(range(-5, 5)) # True
 # -------------------bool-----
 type(True) # <class 'bool'>
 isinstance(True, int) # True
-True == 1  # True
-True is 1 # False
+True == 1  # True。判断值是否相等
+True is 1 # False。判断是否指向同一对象
 True + 4 # 5
+
