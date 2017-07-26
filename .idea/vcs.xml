@@ -3,5 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../../practise/shiant-pts-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../workspace/classic/cpdc.parent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../workspace/classic/cpdc.ui.collaboration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit.ui" vcs="Git" />
   </component>
 </project>

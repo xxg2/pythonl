@@ -38,11 +38,22 @@
       <property name="caretWidth" class="java.lang.Integer" />
     </properties>
   </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../../../workspace/classic/cpdc.parent/cpdc" />
+    <file type="web" url="file://$PROJECT_DIR$/../../../workspace/classic/cpdc.ui.collaboration" />
+    <file type="web" url="file://$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit.ui" />
+    <file type="web" url="file://$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit/cockpit-web" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../workspace/classic/cpdc.ui.collaboration/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../workspace/classic/cpdc.parent/pom.xml" />
         <option value="$PROJECT_DIR$/../../../practise/shiant-pts-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit.ui/pom.xml" />
       </list>
     </option>
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

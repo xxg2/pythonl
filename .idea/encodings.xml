@@ -2,5 +2,16 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/../../../practise/shiant-pts-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../workspace/classic/cpdc.parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../workspace/classic/cpdc.parent/cpdc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../workspace/classic/cpdc.parent/cpdc.core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../workspace/classic/cpdc.parent/cpdc.service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../workspace/classic/cpdc.ui.collaboration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit.ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit.ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit/cockpit-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit/cockpit-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit/cockpit-web" charset="UTF-8" />
   </component>
 </project>

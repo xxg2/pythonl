@@ -3,6 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../../../software/anaconda/Lib/Lib.iml" filepath="$PROJECT_DIR$/../../../software/anaconda/Lib/Lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../workspace/classic/cpdc.parent/cpdc/cpdc.iml" filepath="$PROJECT_DIR$/../../../workspace/classic/cpdc.parent/cpdc/cpdc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../workspace/classic/cpdc.parent/cpdc.core/cpdc.core.iml" filepath="$PROJECT_DIR$/../../../workspace/classic/cpdc.parent/cpdc.core/cpdc.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../workspace/classic/cpdc.parent/cpdc.parent.iml" filepath="$PROJECT_DIR$/../../../workspace/classic/cpdc.parent/cpdc.parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../workspace/classic/cpdc.parent/cpdc.service/cpdc.service.iml" filepath="$PROJECT_DIR$/../../../workspace/classic/cpdc.parent/cpdc.service/cpdc.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../workspace/classic/cpdc.ui.collaboration/cpdc.ui.collaboration.iml" filepath="$PROJECT_DIR$/../../../workspace/classic/cpdc.ui.collaboration/cpdc.ui.collaboration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit/cpes-cockpit.iml" filepath="$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit/cpes-cockpit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit/cockpit-api/cpes-cockpit-api.iml" filepath="$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit/cockpit-api/cpes-cockpit-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit/cockpit-service/cpes-cockpit-service.iml" filepath="$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit/cockpit-service/cpes-cockpit-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit.ui/cpes-cockpit-ui.iml" filepath="$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit.ui/cpes-cockpit-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit/cockpit-web/cpes-cockpit-web.iml" filepath="$PROJECT_DIR$/../../../workspace/classic/cpes.cockpit/cockpit-web/cpes-cockpit-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonl.iml" filepath="$PROJECT_DIR$/.idea/pythonl.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../practise/shiant-pts-service/shiant-pts-service.iml" filepath="$PROJECT_DIR$/../../../practise/shiant-pts-service/shiant-pts-service.iml" />
     </modules>
