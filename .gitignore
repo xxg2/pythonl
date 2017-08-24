@@ -7,3 +7,6 @@ dependency-reduced-pom.xml
 .idea/*
 *.log
 *.db
+*.pyc
+.idea/*
+.DS_Store
