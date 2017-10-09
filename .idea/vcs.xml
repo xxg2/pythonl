@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../linear_algebra1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../shiant-consumer-groupbuying" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../shiant-group-buying" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../shiant-pts-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../shiant-www-portal" vcs="Git" />
   </component>
 </project>

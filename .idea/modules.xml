@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../shiant-group-buying/group-buying.iml" filepath="$PROJECT_DIR$/../shiant-group-buying/group-buying.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../linear_algebra/linear_algebra.iml" filepath="$PROJECT_DIR$/../linear_algebra/linear_algebra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../linear_algebra1/linear_algebra1.iml" filepath="$PROJECT_DIR$/../linear_algebra1/linear_algebra1.iml" />
       <module fileurl="file://$PROJECT_DIR$/pythonl.iml" filepath="$PROJECT_DIR$/pythonl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shiant-consumer-groupbuying/shiant-consumer-groupbuying.iml" filepath="$PROJECT_DIR$/../shiant-consumer-groupbuying/shiant-consumer-groupbuying.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shiant-pts-service/shiant-pts-service.iml" filepath="$PROJECT_DIR$/../shiant-pts-service/shiant-pts-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shiant-www-portal/shiant-www-portal.iml" filepath="$PROJECT_DIR$/../shiant-www-portal/shiant-www-portal.iml" />
     </modules>
   </component>
 </project>

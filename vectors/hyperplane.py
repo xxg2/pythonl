@@ -2,6 +2,7 @@
 from decimal import Decimal, getcontext
 
 from vector import Vector
+from numpy import random
 
 class Hyperplane(object):
     NO_NONZERO_ELTS_FOUND_MSG = 'No nonzero elements found'
@@ -22,7 +23,7 @@ class Hyperplane(object):
             constant_term = Decimal('0')
         self.constant_term = Decimal(constant_term)
         self.set_basepoint()
-
+        randArray = random.random(size=(2,4))
 
     def set_basepoint(self):
         try:
