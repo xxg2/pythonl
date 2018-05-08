@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bin" type="kotlin.js">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../phantomjs-2.1.1-macosx/bin" />
+    </SOURCES>
+  </library>
+</component>

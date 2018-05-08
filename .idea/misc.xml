@@ -2,14 +2,25 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/../shiant-consumer-groupbuying" />
+    <file type="web" url="file://$PROJECT_DIR$/../../projects/cpes.cockpit.cardmanagement.ui/cpescockpitcardmanagementui" />
+    <file type="web" url="file://$PROJECT_DIR$/../../projects/cpes.cockpit.ui/cpescockpitui" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/../shiant-pts-service/pom.xml" />
-        <option value="$PROJECT_DIR$/../shiant-consumer-groupbuying/pom.xml" />
-        <option value="$PROJECT_DIR$/../shiant-group-buying/pom.xml" />
+        <option value="$PROJECT_DIR$/../../projects/cpes.cockpit.ui/pom.xml" />
+        <option value="$PROJECT_DIR$/../../projects/cpes.cockpit.cardmanagement.ui/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../../projects/cpes.cockpit.cardmanagement.ui/assembly/pom.xml" />
+        <option value="$PROJECT_DIR$/../../projects/cpes.cockpit.cardmanagement.ui/cpescockpitcardmanagementui/pom.xml" />
+        <option value="$PROJECT_DIR$/../../projects/cpes.cockpit.cardmanagement.ui/pom.xml" />
+        <option value="$PROJECT_DIR$/../../projects/cpes.cockpit.ui/assembly/pom.xml" />
+        <option value="$PROJECT_DIR$/../../projects/cpes.cockpit.ui/cpescockpitui/pom.xml" />
+        <option value="$PROJECT_DIR$/../../projects/cpes.cockpit.ui/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
